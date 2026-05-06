@@ -1,1 +1,1 @@
-# aula02_django
+# aula_02_django
